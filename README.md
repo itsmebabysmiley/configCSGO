@@ -11,6 +11,6 @@ Step 5 : Enjoy! <br />
 <br /><br />
 **How to use Script for practice utility?** <br />
 Step 1 : Open console. <br />
-Step 2 : Type | exec utility_practice.cfg | <br />
+Step 2 : Type | exec utility_Practice.cfg | <br />
 Step 3 : Enjoy! <br />
 
