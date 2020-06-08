@@ -1,8 +1,8 @@
 # configCSGO
-It's my config for csgo
-Last update June 08,2020.
+It's my config for csgo<br />
+Last update June 08,2020.<br />
 
-How to use it?
-Answer: Google it!
-command to use
-+exec autoexec.cfg
+How to use it?<br />
+Answer: Google it!<br />
+command to use<br />
++exec autoexec.cfg<br />
