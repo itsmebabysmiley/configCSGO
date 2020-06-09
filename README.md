@@ -8,6 +8,7 @@ Step 2 : Open steam. Then click LIBRARY choose Counter-Strike:Global offensive. 
 Step 3 : Click SET LAUNCH OPTIONS.<br />
 Step 4 : Type | +exec autoexec.cfg |Then click ok. <br />
 Step 5 : Enjoy! <br />
+<<
 <br /><br />
 **How to use Script for practice utility?** <br />
 >> store scriptPractice file in Steam/userdata/<SteamID>/730/local/cfg (same directory with autoexec file) <br />
