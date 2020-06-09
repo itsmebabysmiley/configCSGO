@@ -3,7 +3,7 @@ It's my config for csgo<br />
 Last update June 08,2020.<br />
 
 **How to use autoexec file?** <br /> 
-Step 1 : store autoexec file in Steam/userdata/<SteamID>/730/local/cfg <br />
+>>Step 1 : store autoexec file in Steam/userdata/<SteamID>/730/local/cfg <br />
 Step 2 : Open steam. Then click LIBRARY choose Counter-Strike:Global offensive. Right click choose porperties.<br />
 Step 3 : Click SET LAUNCH OPTIONS.<br />
 Step 4 : Type | +exec autoexec.cfg |Then click ok. <br />
