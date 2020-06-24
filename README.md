@@ -1,6 +1,6 @@
 # configCSGO
 It's my config for csgo<br />
-Last update June 08,2020.<br />
+Last update June 24,2020.<br />
 
 **How to use autoexec file?** <br /> 
 >>Step 1 : store autoexec file in Steam/userdata/*Your SteamID*/730/local/cfg <br />
